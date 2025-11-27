@@ -17,6 +17,10 @@ export default function Home() {
       <BackgroundBeamsDemo />
       {/* <BackgroundRippleEffect /> */}
       <GridBackgroundDemo />
+      <div>
+        hii
+      </div>
     </div>
+
   );
 }
